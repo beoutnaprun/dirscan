@@ -79,5 +79,4 @@ python pageCrawling.py -u https://www.baidu.com/
 =
 **欢迎关注HexaGon实验室进行相关留言**
 
-                                    ![image](https://github.com/beoutnaprun/dirscan/assets/133112969/ebcdbe67-901f-41dc-95e8-c1e13fb4d54f)
-
+![image](https://github.com/beoutnaprun/dirscan/assets/133112969/ebcdbe67-901f-41dc-95e8-c1e13fb4d54f)
