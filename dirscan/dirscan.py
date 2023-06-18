@@ -14,7 +14,7 @@ name = '''
     |   |        |   |  \____/ /\ \  \_____|   | \   \  \________|   |          
     |___|        |___|\_______/  \_\_______|___|  \___\__________|___|          
 
-    Hello, welcome to use the url DirScan tool of Chinese hacker Xue 
+    Hello, welcome to use the url DirScan tool of Chinese hacker X 
     Please enter the - h parameter for help
 '''
 parser = argparse.ArgumentParser(description='This is the help!')
