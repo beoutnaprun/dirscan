@@ -7,18 +7,21 @@ sys.path.append("./Script/")  # 添加临时环境变量
 import DirConf, ProxyPool, DirConf2,JSFinder,JSFinder2
 
 name = '''
-
-    |   |        |   |                     |   |  /   /
-    |   |        |   |                     |   | /   /
-    |   |________|   |  _______       _____|   |/   /   _______   ___  _____
-    |    ________    |/  ____  \    /  ____|   |   /   /  ___   \|   |/ __  \ 
-    |   |        |   |  /    \  \  /  /    |   |   \  /  /___\   |     /  \_/ 
-    |   |        |   | |      |  \/  /     |   |\   \/  _________|    /  
-    |   |        |   |  \____/ /\ \  \_____|   | \   \  \________|   |          
-    |___|        |___|\_______/  \_\_______|___|  \___\__________|___|          
-
-    Hello, welcome to use the url DirScan tool of Chinese hacker X 
+            
+    |   |       |   |                             __________
+    |   |       |   |                           /   -----   \          
+    |   |_______|   |  _____           ______  /   /     \___\     _____     _______
+    |    _______    |/  ___  \  \  /  /  ___  \    |             /      \  /   ___  \ 
+    |   |       |   |  |___\  \  \/  /  /   \  \   |     ______ /   ___  \/   /   \  \ 
+    |   |       |   |  _____   |    |  |     |  \   \   |___   |   |___|  |  |     |  |
+    |   |       |   |  \___/  /  /\  \  \___/ /\ \   \_____/  / \        /|  |     |  |
+    |___|       |___|\_______/  /  \  \______/  \_\__________/   \______/ |  |     |  |
+    
+    Hello, welcome to use the DirScan tool of HexaGon Laboratory
+    The author of this article China Hacker X
+    
     Please enter the - h parameter for help
+    
 '''
 parser = argparse.ArgumentParser(description='This is the help!')
 parser.add_argument('-u', '--url', help='要检测的url', default='')
