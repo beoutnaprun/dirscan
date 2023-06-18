@@ -44,3 +44,15 @@ python pageCrawling.py -u https://www.baidu.com/
 自动爬取页面的 url链接 / JavaScript链接 / CSS链接 / 图片链接 / Js文件中的链接
 ```
 ![image](https://github.com/beoutnaprun/dirscan/assets/133112969/71496fc5-46d2-40a2-baf8-14db866757fb)
+
+
+**4、Dos.py DOS工具**
+=
+```
+慎用：
+    基于多进程多线程发送大量请求，致使目标宕机
+使用方法：
+    python Dos.py -u http://192.168.0.152
+工具介绍：
+    伤敌一千自损八百，纯破坏性工具
+```
